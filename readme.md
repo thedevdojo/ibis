@@ -22,7 +22,7 @@ Make sure you have PHP7.3 or above installed on your system and that your gd ext
 First, install the composer package globally:
 
 ```
-composer global require themsaid/ibis
+composer global require thedevdojo/ibis
 ```
 
 Then, run this command inside an empty directory:

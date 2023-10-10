@@ -1,5 +1,5 @@
 {
-    "name": "themsaid/ibis",
+    "name": "thedevdojo/ibis",
     "description": "Markdown to PDF book builder",
     "keywords": [
         "markdown",
@@ -7,7 +7,7 @@
         "pdf",
         "php"
     ],
-    "homepage": "https://github.com/themsaid/ibis",
+    "homepage": "https://github.com/thedevdojo/ibis",
     "license": "MIT",
     "authors": [
         {
